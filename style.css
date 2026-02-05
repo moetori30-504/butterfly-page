@@ -2,3 +2,12 @@ body{
     background-color: rgb(121, 245, 245);
     color:darkorange
 }
+h1{
+    text-align:center;
+    font-family: monospace;
+    margin: 5px;
+    padding:3px;
+    border-style: dotted;
+    border-color:blue;
+    border-radius: 3px;
+}
